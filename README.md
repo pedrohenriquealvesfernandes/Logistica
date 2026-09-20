@@ -10,7 +10,7 @@ Projeto desenvolvido com base no curso Análises Avançadas no Power BI (Prime C
 * Criação de dashboards interativos com gráficos de barras, colunas, rosca, mapas, cartões, indicadores e aplicando formatação condicional, títulos e textos dinâmicos. Implementação de recursos de navegação, menus retráteis, botões, animações e interatividade.
 ## 🎟 Acesso ao projeto
 
-<p><strong><u><a target="_blank" href="https://app.powerbi.com/groups/me/reports/a44f969b-c665-4ea2-81b7-f1ebe36c2cbc/6324d594b6bdd8258e9b?experience=power-bi">[Análises Avançadas no Power BI]</a></u></strong></p>
+<p><strong><u><a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiMzNjMGQ2MzEtZmVmNS00MWE5LTlkNGItNGNiZWY3NDJiNjg1IiwidCI6IjM4MDQwNjEzLTI2MDItNDJjMC1iNDVkLWU4YTk4ZjgzY2Q1MCJ9">[Análises Avançadas no Power BI]</a></u></strong></p>
 
 
 ## 🖼 Imagens do projeto
