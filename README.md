@@ -15,4 +15,4 @@ Projeto desenvolvido com base no curso Análises Avançadas no Power BI (Prime C
 
 ## 🖼 Imagens do projeto
 
-![People Analytics](https://github.com/pedrohenriquealvesfernandes/Logística/blob/main/logistica.jpg)
+![People Analytics](https://github.com/pedrohenriquealvesfernandes/Logistica/blob/main/logistica.jpg)
